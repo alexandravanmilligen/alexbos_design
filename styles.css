@@ -189,6 +189,10 @@ img.about-image {
   margin: auto;
 }
 
+.mdl-card__supporting-text p {
+  font-size: 16px;
+}
+
 /*
 .av-band {
   background: url(images/av-logo-band.png) no-repeat left;

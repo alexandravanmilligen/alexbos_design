@@ -37,6 +37,10 @@
   margin: auto auto 10px;
 }
 
+.mdl-cell--6-col, .mdl-cell--6-col-desktop.mdl-cell--6-col-desktop {
+  width: calc(100% - 16px);
+}
+
 .is-compact .portfolio-logo {
   height: 50px;
   width: 50px;
